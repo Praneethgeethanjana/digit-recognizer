@@ -1,0 +1,27 @@
+# Python specific
+*.pyc
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+# macOS specific
+.DS_Store
+
+# Node.js specific
+node_modules/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.jar
+
+# Dependency directories
+venv/
+env/
